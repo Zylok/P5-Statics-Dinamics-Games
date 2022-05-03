@@ -1,0 +1,2 @@
+cd C:\Users\sergi\AppData\Local\Google\Chrome SxS\Application
+chrome.exe --allow-file-access-from-files
